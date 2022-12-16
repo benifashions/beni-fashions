@@ -1,0 +1,23 @@
+<footer id="footer">
+  <div class="container">
+    <div class="row">
+      <div class="grid_12"> 
+        <h2>Contacts</h2> 
+        <div class="footer_phone">+1 800 559 6580</div>
+        <a href="#" class="footer_mail">beni.fashions.cloths@gmail.com</a>  
+       
+      </div>
+    </div>
+    <div class="row footer-social-div">
+      <div class="grid_12 ta__center">
+        <a href="#" class="footer_social fa fa-facebook"></a>
+        <a href="#" class="footer_social fa fa-instagram"></a>
+        <a href="#" class="footer_social fa fa-google-plus"></a>
+        <a href="#" class="footer_social fa fa-youtube"></a>
+      </div> 
+      <div class="sub-copy">© 2022 | Sapna Choyal Solanki - All Rights Reserved</div>
+    </div>
+    
+  </div>  
+</footer>
+<a class="fixed-enquiry fcybox" href="https://wa.me/918085357770/?text=Hello" ><img src="images/whatsapp.png" alt="Enquiry Form"></a>
