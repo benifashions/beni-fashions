@@ -960,3 +960,7 @@ a.color1:hover {
   padding-left: 40px;
   list-style: circle;
 }
+
+.main-third:hover {
+  color: white;
+}
