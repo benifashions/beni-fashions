@@ -964,3 +964,11 @@ a.color1:hover {
 .main-third:hover {
   color: white;
 }
+
+.about-me {
+  text-decoration: none;
+}
+
+.about-me-social {
+  font-size: 14px !important;
+}
